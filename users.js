@@ -59,7 +59,7 @@ const users = [
         "id": "8",
         "name": "Tina",
         "age": 38,
-        "activities": ["Hiking", "Hiking", "Hiking"],
+        "activities": ["Biking", "Hiking", "Hiking"],
         "member_rating": 1,
         "salary": 5000
     },
